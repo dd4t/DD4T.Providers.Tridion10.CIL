@@ -5,7 +5,7 @@
 # DD4T.Providers.Tridion10.CIL
 DD4T Providers for Tridion 10 Content Interaction Library
 
-## Release 2.5.1
+## Release 2.6.0
 
 - Compatible with Tridion 10.1 (SDL.Web.Delivery 12.2.1046)
 
